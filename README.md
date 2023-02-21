@@ -3,10 +3,10 @@ Hi,
 And welcome to my GitHub!
 
 
-I'm Jesper, and my current occupation is as a master student at the Technical University of Denmark, where I study Mathematical Modelling and Computation. 
+I'm Jesper, and I'm an Engineer from the Technical University of Denmark.  
 
 
-My current interests of study are simulations, optimization, and applications of these techniques. 
+My current interests are simulations, optimization, and applications of these techniques. 
 
 
 See you around!
