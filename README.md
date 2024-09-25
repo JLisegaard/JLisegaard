@@ -1,6 +1,6 @@
 Hi, 
 
-And welcome to my GitHub!
+Welcome to my GitHub!
 
 
 See you around!
